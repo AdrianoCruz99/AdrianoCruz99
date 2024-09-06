@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Back-End Developer
 ------------------
 
-Em uma jornada de aprendizado na programação e desenvolvimento de software.
+On a learning journey in programming and software development.
 
 * 🌍  I'm based in São Paulo, Brasil.
 * ✉️  You can contact me at [adriano.two@outlook.com](mailto:adriano.two@outlook.com)
